@@ -1,0 +1,25 @@
+{
+    "name": "SharpChrome",
+    "version": "0.0.1",
+    "uuid": "c1d2e3f4-0000-4a1b-8c2d-3e4f5a6b7c8d",
+    "command": "sharpchrome",
+    "type": ".net",
+    "repository": "https://github.com/nukeratarmory/SharpDPAPI",
+    "metadata": {
+        "author": [
+            {
+                "name": "sliverarmory",
+                "original_repository": "https://github.com/sliverarmory/SharpDPAPI"
+            },
+            {
+                "name": "GhostPack",
+                "original_repository": "https://github.com/GhostPack/SharpDPAPI"
+            }
+        ],
+        "platform": [
+            "windows"
+        ],
+        "architecture": "any",
+        "net_version": "3.5"
+    }
+}
